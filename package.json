@@ -25,6 +25,7 @@
     "react-native-screens": "~3.10.1",
     "react-native-vector-icons": "*",
     "react-native-web": "0.17.1",
+    "socketcluster-client": "^16.1.1",
     "sockette": "^2.0.6"
   },
   "devDependencies": {
